@@ -1,0 +1,2135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-bar{
+    font-family: "Bree Serif";
+    font-weight:bold;
+    color:white;
+  }
+  
+.my-projects-home-page {
+    text-align: center;
+    padding: 15px;
+}
+
+.software-developer-image {
+    width: 80vw;
+}
+
+.my-projects-heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 24px;
+}
+
+.my-projects-description {
+    font-family: "Bree Serif";
+    color: #616e7c;
+    font-size: 12px;
+}
+
+.my-project-image {
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.cover-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cover-page-card-container {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+.cover-page-heading-text {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.cover-page-paragraph-text {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.cover-page-learn-more-button {
+    background-color: #ffffff;
+    color: #171f46;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 600;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 130px;
+    padding: 10px;
+    margin: 6px;
+
+}
+
+.cover-page-save-draft-button {
+    background-color: #171f46;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 130px;
+    padding: 10px;
+    margin: 6px;
+
+}
+
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.food-order-page-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.order-card {
+    background-color: #f6c56e;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    padding: 24px;
+}
+
+.order-card-title {
+    color: #323f4b;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.order-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.order-card-button {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 120px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+
+.news-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.news-page-card-container {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.news-page-main-heading-text {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.news-page-headline-text {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 800;
+    margin: 15px;
+}
+
+.news-page-paragraph-text {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin: 15px;
+}
+
+.news-page-button {
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "Roboto";
+    font-size: 13px;
+    padding: 10px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 15px;
+}
+
+
+.chat-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+}
+
+.person-name {
+    text-align: center;
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px;
+
+}
+
+.messages-container {
+    padding: 20px;
+
+
+
+}
+
+.message-text {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 14px;
+
+}
+
+.message-sent {
+    text-align: right;
+    background-color: #47a3f3;
+    padding: 15px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+
+}
+
+.message-received {
+    background-color: #52606d;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.coding-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 25px;
+}
+
+.coding-card {
+    background-color: #00000080;
+    border: 6px;
+    border-style: solid;
+    border-color: #48ee59;
+    padding: 45px;
+}
+
+.coding-heading {
+
+    font-family: "Bree Serif";
+    font-size: 40px;
+}
+
+
+.hotel-booking-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.hotel-booking-page-card-container {
+    background-color: #000000e6;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.hotel-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+
+.hotel-address {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.booking-price {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.booking-button {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    padding: 10px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-bottom: 30px;
+}
+
+.hotel-booking-page-back-button {
+    font-family: "Roboto";
+    font-size: 12px;
+    padding: 10px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+
+.cricketer-page-top-section {
+    background-color: #fb4e71;
+    height: 30vh;
+    background-size: cover;
+}
+
+.top-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.top-section-paragraph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+    margin: 10px;
+}
+
+.top-section-image {
+    height: 150px;
+    width: 110px;
+    padding: 10px;
+}
+
+.cricketer-page-bottom-section {
+    background-color: #e6f6ff;
+    background-size: cover;
+    padding: 10px;
+}
+
+.title-text {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cricketer-page-card-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.bottom-section-card-image {
+    height: 120px;
+    width: 110px;
+}
+
+.card-heading-text {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.card-paragraph-text {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin: 5px;
+}
+
+.bottom-title-text {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.achievements-card-item {
+    text-align: center;
+    width: 140px;
+    border-radius: 9px;
+}
+
+.achievements-card-image {
+    height: 80px;
+    width: 85px;
+}
+
+.achievements-card-text {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.cricketer-button {
+    margin: 10px;
+}
+
+
+
+.covid-page-top-section-bg-container {
+    background-color: white;
+    padding: 10px;
+}
+
+.covid-page-top-section-image {
+    width: 120px;
+    height: 90px;
+
+}
+
+.covid-page-top-section-text {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.covid-page-top-section-button {
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.covid-page-top-section-card-item {
+    background-color: #0967d219;
+    padding: 10px;
+    margin: 13px;
+    border-radius: 10px;
+}
+
+.covid-page-top-section-card-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.covid-page-top-section-card-paragraph {
+    color: #707070;
+    font-size: 13px;
+}
+
+.covid-page-top-section-card-image {
+    width: 50px;
+    height: 50px;
+    margin: 13px;
+}
+
+.bottom-section-title {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.bottom-section-card-container {
+    text-align: center;
+    width: 90px;
+    border-radius: 9px;
+    padding: 5px;
+    margin: 8px;
+}
+
+.bottom-card-image {
+    height: 50px;
+    width: 50px;
+}
+
+.bottom-card-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin: 3px;
+}
+
+.cough-card-bg-color {
+    background-color: #36bd93;
+}
+
+.fever-card-bg-color {
+    background-color: #e668a7;
+}
+
+.headache-card-bg-color {
+    background-color: #a368fc;
+}
+
+.bottom-section-video-card-item {
+    background-color: #e12d3919;
+    padding: 10px;
+    margin: 13px;
+    border-radius: 10px;
+}
+
+.bottom-section-video-card-image {
+    width: 50px;
+    height: 50px;
+    margin: 13px;
+}
+
+.bottom-section-video-card-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bottom-section-video-card-paragraph {
+    color: #707070;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.bottom-button {
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.goa-page-bg-container {
+    height: 10vh;
+}
+
+.goa-page-description-container {
+    margin: 15px;
+}
+
+.goa-page-description-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.goa-page-description-text {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.goa-page-description-more-pictures-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.more-pictures-images {
+    height: 96px;
+    width: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+.goa-page-description-videos-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.videos-card {
+    height: 96px;
+    width: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+
+.tourism-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.tourism-home-page-button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin: 15px;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.favourite-place-card-text-container {
+    margin-right: 15px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    padding: 15px;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+.tourism-home-page-back-button {
+    width: 108px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+}
+
+
+
+.movie-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-size: cover;
+    padding: 24px;
+}
+
+.movie-heading-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.movie-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: white;
+    color: #ff8348;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    height: 38px;
+    width: 98px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.movie-description {
+    font-family: "Roboto";
+    color: white;
+    font-size: 12px;
+}
+
+.sub-heading {
+    color: white;
+    font-family: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.similar-movie-image {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+.mobile-specs-page-bg-container {
+    border-color: #707070;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.mobile-image {
+    height: 200px;
+    width: 99vw;
+}
+
+.mobile-specs-page-heading {
+    color: #0a1f44;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.specifications-text {
+    color: #0a1f44;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bottom-padding {
+    padding: 13px;
+}
+
+.text-margin {
+    margin: 10px;
+}
+
+.mobile-specs-page-button {
+    margin: 10px;
+}
+
+
+.conference-page-bg-container {
+    padding: 10px;
+}
+
+.conference-page-image {
+    height: 50vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.conference-page-bottom-card-item {
+    margin: 10px;
+}
+
+.conference-page-heading-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.conference-page-title-text {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.conference-page-description-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 500;
+}
+
+.coneference-page-button {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    height: 38px;
+    width: 98px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 10px;
+}
+
+.conference-details-page-bg-container {
+    margin: 10px;
+}
+
+.conference-details-page-heading-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.conference-details-page-title-text {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.conference-details-page-description-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.conference-details-page-bottm-card-item {
+    margin: 20px;
+}
+
+.conference-details-page-button {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    height: 38px;
+    width: 58px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+
+
+.quiz-page-bg-container {
+    background-color: #875fc0;
+    padding: 10px;
+}
+
+.quiz-page-score-text {
+    text-align: right;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.quiz-page-top-section-card-container {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.quiz-page-top-card-heading {
+    color: #1f2933;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.quiz-page-top-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.quiz-page-top-card-image {
+    height: 100px;
+    width: 220px;
+}
+
+.quiz-page-bottom-section-card-container {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.quiz-page-bottom-card-text {
+    color: #323f4b;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    font-weight: 500;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.quiz-page-bottom-card-purple-text {
+    background-color: #875fc0;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    font-weight: 500;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.options-list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.quiz-page-button {
+    background-color: #fbaf00;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+
+.podcasts-home-page-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 30vh;
+    background-size: cover;
+}
+
+.podcasts-home-page-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.podcasts-cards-container {
+    padding: 15px;
+}
+
+.details-card {
+    margin: 10px;
+    text-align: center;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 112px;
+    margin-top: 10px;
+}
+
+.podcast-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.episodes-count {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.category {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.podcast-caption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.podcast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.podcast-button-container {
+    margin: 20px;
+}
+
+.podcast-button {
+    color: white;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+
+.music-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.music-top-section-card-item {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+}
+
+.music-category {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.music-description {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.music-bottom-card-item {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    height: 23vh;
+    background-size: cover;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.music-bottom-card-heading {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+
+.music-bottom-description {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.music-page-button {
+    background-color: #8e97fd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: white;
+    border-width: 0px;
+    border-radius: 38px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+
+.music-details-bg-container {
+    background-color: #03174c;
+}
+
+.details-padding {
+    padding: 10px;
+}
+
+.music-details-top-card-image {
+    width: 100vw;
+}
+
+.music-details-top-heading-text {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.music-details-top-section-description-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.music-details-bottom-heading-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 18px;
+}
+
+.music-details-bottom-section-card {
+    margin-right: 10px;
+}
+
+.music-details-bottom-card-image {
+    width: 40vw;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+
+.music-details-bottom-card-heading-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 15px;
+}
+
+.music-details-bottom-card-description-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+
+.book-store-home-page-bg-container {
+    background-color: #1b1b1b;
+    padding: 24px;
+}
+
+.book-store-home-page-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.book-store-home-page-top-card-item {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.book-store-home-page-top-card-image {
+    height: 180px;
+    width: 126px;
+}
+
+.book-store-home-page-top-card-text-container {
+    padding: 16px;
+}
+
+.book-store-home-page-top-card-heading-text {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
+.book-store-home-page-top-card-description-text {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #06070d;
+}
+
+.book-store-home-page-top-card-author {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+
+.book-store-button {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.book-store-home-page-bottom-heading-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.book-store-home-page-bottom-card-container {
+    margin-bottom: 10px;
+}
+
+.book-store-home-page-bottom-card-image {
+    height: 125px;
+    width: 80px;
+}
+
+.book-store-home-page-bottom-card-heading-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 16px;
+}
+
+.book-store-home-page-bottom-card-description-text {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #e4e7eb;
+}
+
+.book-store-home-page-bottom-card-text-container {
+    margin-left: 10px;
+}
+
+.book-details-page-bg-container {
+    background-color: #1b1b1b;
+    padding: 24px;
+}
+
+.book-details-page-image-container {
+    text-align: center;
+}
+
+.book-details-page-image {
+    width: 190px;
+    height: 294px;
+    margin-bottom: 20px;
+}
+
+.book-title-and-author-text-container {
+    text-align: center;
+}
+
+.book-name {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.book-author {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-family: "Bree Serif";
+}
+
+.book-description-text-container {
+    margin-top: 10px;
+}
+
+.book-description-text {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 12px;
+    text-align: left;
+}
+
+.details-page-back-button {
+    margin: 5px;
+}
+
+.details-page-buynow-button {
+    margin: 5px;
+}
+
+
+.foundations-page-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/foundations-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.foundations-page-card-container {
+    background-color: white;
+    padding: 10px;
+    height: 65vh;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.foundations-page-card-item {
+    padding: 10px;
+}
+
+.foundations-page-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.foundations-page-description-text {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.foundations-page-course-card-container {
+    padding: 10px;
+    border-color: #cbd2d9;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+    width: 50vw;
+}
+
+.foundations-page-course-image {
+    height: 40px;
+    width: 40px;
+}
+
+.foundations-page-course-name {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+
+.favorite-stores-page-bg-container {
+    background-color: #894bca;
+}
+
+.favorite-stores-page-top-section-container {
+    padding: 10px;
+}
+
+.favorite-stores-page-top-section-heading-text {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    margin: 20px;
+}
+
+.favorite-stores-page-top-section-image {
+    height: 30vh;
+    width: 40vw;
+}
+
+.favorite-stores-page-bottom-card-item {
+    background-color: white;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.favorite-stores-page-bottom-card-heading-text {
+    color: #f780c3;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Bree Serif";
+}
+
+.favorite-stores-page-shopping-site-card-image {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+.favorite-stores-page-shopping-site-name {
+    font-family: "Bree Serif";
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.favorite-stores-page-shopping-site-description {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #7b8794;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+
+
+.yoga-page-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 15px;
+}
+
+.yoga-page-heading-container {
+
+    margin-bottom: 90px;
+}
+
+.yoga-page-heading-text {
+    font-family: "Roboto";
+    color: #132d84;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.yoga-home-page-image {
+    height: 40vh;
+    width: 60vw;
+}
+
+.yoga-page-description-container {
+    margin: 10px;
+}
+
+.yoga-page-description-text {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.yoga-home-page-button {
+    color: #fad693;
+    background-color: #132d84;
+    font-family: "Roboto";
+}
+
+.types-of-yoga-page-bg-container {
+    background-color: #ffedcb;
+    padding: 10px;
+}
+
+.types-of-yoga-main-image {
+    height: 40vh;
+    width: 70vw;
+}
+
+.types-of-yoga-page-heading-container {
+    margin: 10px;
+    text-align: center;
+}
+
+.types-of-yoga-page-heading-text {
+    font-family: "Roboto";
+    color: #132d84;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.types-of-yoga-page-card-container {
+    background-color: #fad693;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.types-of-yoga-page-card-image {
+    height: 80px;
+    width: 80px;
+}
+
+.types-of-yoga-page-card-heading {
+    font-family: "Roboto";
+    color: #132d84;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.types-of-yoga-page-card-description {
+    font-family: "Roboto";
+    color: #253263;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.types-of-yoga-page-button {
+    color: #fad693;
+    background-color: #132d84;
+    font-family: "Roboto";
+}
+
+
+
+.flats-home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.flats-home-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 20px;
+}
+
+.flats-home-main-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 28px;
+}
+
+.flats-home-description {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.flats-home-button {
+    color: white;
+    background-color: #f19116;
+    border-width: 0px;
+}
+
+.flats-list-page-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    padding: 15px;
+}
+
+.flats-list-page-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.flats-list-page-card-item {
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.flats-list-card-image {
+    width: 80px;
+    height: 140px;
+}
+
+.flats-list-page-card-text-container {
+    margin: 10px;
+}
+
+.flats-list-page-card-heading {
+    font-family: "Bree Serif";
+    color: #0f0e46;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.flats-list-page-card-description {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.flats-list-button {
+    color: white;
+    background-color: #f19116;
+    border-width: 0px;
+    margin-bottom: 50px;
+}
+
+.flat-details-page-bg-container {
+    background-color: #222222;
+}
+
+.flat-image {
+    height: 40vh;
+    width: 95vw;
+}
+
+.flat-details-page-text-container {
+    margin: 20px;
+}
+
+.flat-details-page-price {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.flat-details-page-location-image {
+    width: 25px;
+    height: 25px;
+}
+
+.flat-details-page-address-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.flat-details-page-line {
+    background-color: white;
+}
+
+.flat-details-page-description-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 23px;
+    font-weight: 500;
+    margin-left: 7px;
+}
+
+.flat-details-page-description-text {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.flat-details-page-button {
+    color: white;
+    background-color: #f19116;
+    border-width: 0px;
+    margin-bottom: 30px;
+    margin-left: 8px;
+}
+
+
+
+.articles-home-page-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.articles-page-main-heading {
+    font-family: "Roboto";
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.articles-page-description-text {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 10px;
+    font-family: "Roboto"
+
+}
+
+.articles-home-page-card-container {
+    margin: 10px;
+}
+
+.articles-home-page-card-item {
+    text-align: center;
+    background-color: white;
+    width: 150px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 5px;
+}
+
+.articles-home-page-card-image {
+    height: 34px;
+    width: 44px;
+    margin-bottom: 10px;
+}
+
+.articles-home-page-card-name {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.articles-list-page-bg-container {
+    background-color: #225db0;
+    padding: 15px;
+    background-size: cover;
+}
+
+.articles-list-page-carousel-container {
+    border-radius: 10px;
+}
+
+.articles-list-page-heading-container {
+    margin-top: 15px;
+}
+
+.articles-list-page-heading-text {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: white;
+}
+
+.articles-list-page-topics-list {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+}
+
+.articles-list-items-spacing {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.articles-list-page-button {
+    border-color: white;
+    color: white;
+    font-family: "Roboto";
+    height: 30px;
+    width: 50px;
+    font-size: 12px;
+}
+
+
+.todolist-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+    height: 100vh;
+    width: 100vw;
+}
+
+.todolist-main-heading {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.todolist-second-heading {
+    color: white;
+    font-family: "Roboto";
+}
+
+.todolist-paragraph1 {
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 19px;
+}
+
+.todolist-paragraph2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.todolist-paragraph3 {
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 13px;
+    text-decoration: underline;
+    font-weight: 500px;
+}
+
+.todolist-button {
+    background-color: orange;
+    font-family: "Roboto";
+    text-align: center;
+    color: white;
+    padding: 9px;
+    font-size: 20px;
+    width: 90px;
+}
+
+.button-center {
+    text-align: center;
+
+}
+
+
+.vr-banner-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.vr-banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.vr-banner-button {
+    width: 130px;
+    height: 45px;
+    background-color: #1a2137;
+    border-width: 0px;
+    color: white;
+    border-radius: 5px;
+}
+
+.nav-logo-image {
+    width: 60px;
+    height: 60;
+}
+
+#navbar-text {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+
+
+.vr-features-section-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vr-features-section-card-container {
+    text-align: center;
+}
+
+.vr-features-section-card-item {
+    padding: 10px;
+}
+
+.vr-features-section-card-image {
+    width: 25%;
+}
+
+.vr-features-section-card-title {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.vr-features-section-card-description {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.highlighted-text {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.vr-kit-section-bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+    padding: 5px;
+}
+
+.vr-kit-section-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.vr-kit-section-card-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.vr-kit-section-image {
+    width: 100%;
+}
+
+.vr-kit-section-card-title {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+.vr-contact-us-section-bg-container {
+    background-color: #222b36;
+    background-size: cover;
+}
+
+.vr-contact-us-section-heading {
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.vr-contact-us-section-image {
+    width: 100%;
+}
+
+.vr-contact-us-section-button {
+    height: 35px;
+    width: 110px;
+    font-size: 13px;
+}
+
+
+
+.vr-trending-blogs-section-bg-container {
+    background-color: white;
+}
+
+.vr-trending-blogs-section-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vr-trending-blogs-section-card-image {
+    width: 100%;
+}
+
+.vr-trending-blogs-section-card-description-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.vr-trending-blogs-section-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.vr-trending-blogs-section-card-read-more-text {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.vr-trending-blogs-section-button {
+    width: 140px;
+    height: 48px;
+    background-color: #1754a1;
+}
+
+
+
+
+.vr-products-section-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.vr-products-card-container {
+    width: 100%;
+    height: 600px;
+}
+
+.vr-products-section-headset-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+
+.vr-products-section-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.vr-products-section-card-price {
+    font-family: "Roboto";
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.vr-products-section-buy-now-button {
+    color: white;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 120px;
+    height: 40px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 4px;
+}
+
+.vr-products-section-touch-controllers-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+
+.vr-products-section-view-all-button {
+    color: white;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 173px;
+    height: 56px;
+    border-width: 0;
+    border-radius: 4px;
+}
+
+
+
+.vr-optics-and-controllers-section-bg-container {
+    background-color: white;
+}
+
+.vr-optics-and-controllers-section-card-image {
+    width: 100%;
+}
+
+.vr-optics-and-controllers-section-card-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.vr-optics-and-controllers-section-card-description {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #7b8794;
+    font-weight: 500;
+}
+
+.vr-optics-and-controllers-section-card-button {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: white;
+    background-color: #1a2137;
+    border-width: 0px;
+    height: 40px;
+    width: 115px;
+    border-radius: 5px;
+}
